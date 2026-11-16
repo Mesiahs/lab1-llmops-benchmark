@@ -1,0 +1,7 @@
+Modelo,Prompt,TTFT (ms),Velocidad (TPS),Tokens,Total (s)
+1.5b-instruct-q4_K_M,Corto (Definición),468.08,15.11,401,28.04
+1.5b-instruct-q4_K_M,Medio (Razonamiento),837.7,14.71,620,44.96
+1.5b-instruct-q4_K_M,Largo (Generación de Código),645.63,15.08,611,43.09
+1.5b-instruct-q8_0,Corto (Definición),762.27,9.97,304,32.98
+1.5b-instruct-q8_0,Medio (Razonamiento),1287.73,10.37,409,42.84
+1.5b-instruct-q8_0,Largo (Generación de Código),1045.99,8.79,728,88.47
